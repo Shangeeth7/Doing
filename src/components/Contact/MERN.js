@@ -610,6 +610,7 @@ const messages = [
   'MERN ',
   'Full ',
   'MERN ',
+  'Full ',
 ];
 
 const useInterval = (callback, delay) => {
